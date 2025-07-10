@@ -1,9 +1,5 @@
-# Sublime 4 Crack for Windows
+# Sublime 4 Easy Crack for Windows
 
-
-## Easy and Fast Crack Sublime 4 for Windows
-
---
 
 ## Step 1: Install Required Tools
 
