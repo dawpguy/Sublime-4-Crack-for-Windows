@@ -1,10 +1,9 @@
 # Sublime-4-Crack-for-Windows
 Easy and Fast Crack Sublime 4 for Windows
 
+--
 
-Step 1: 
-
-Install Required Tools
+Step 1: Install Required Tools
 
 Download and install Sublime Text from:
 
@@ -16,15 +15,15 @@ You can also use an online tool like:
 
 https://hexed.it
 
+--
 
-Step 2: 
-
-Modify Hex Values in sublime_text.exe
+Step 2: Modify Hex Values in sublime_text.exe
 
 Open sublime_text.exe in your hex editor.
 
 Press Ctrl+F or go to Search > Find, and apply the following patches:
 
+--
 
 Patch 1
 
@@ -34,6 +33,7 @@ Change the first byte: 74 → EB
 
 Result: EB 06 3B
 
+--
 
 Patch 2
 
@@ -47,6 +47,7 @@ F8 → C0
 
 Result: 33 C0 48 81 C4 38 02
 
+--
 
 Patch 3
 
@@ -54,6 +55,7 @@ Find: E8 F4 7F 10 00
 
 Replace all bytes with: 90 90 90 90 90
 
+--
 
 Patch 4
 
@@ -69,10 +71,9 @@ Result:
 
 Once all changes are made, save the file.
 
+--
 
-Step 3: 
-
-Activate Sublime Text.
+Step 3: Activate Sublime Text.
 
 Open Sublime Text.
 
@@ -80,5 +81,6 @@ Go to Help > Enter License.
 
 Enter any value and click Use License.
 
+--
 
 Enjoy Coding
